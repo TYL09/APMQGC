@@ -276,6 +276,7 @@ Item {
         id:                     battTimeLoader
         visible:                true
         source:                 "/custom/CustomBatteryTime.qml"
+        anchors.top:            parent.top
 
     }
 
